@@ -143,4 +143,4 @@ functions. They do not represent real data associated with Amazon or any other e
 project is solely for learning and educational purposes, and any resemblance to actual persons,
 businesses, or events is purely coincidental.
 
-![ERD Placeholder](https://github.com/najirh/Flipkart--SQL-Project-B01/blob/main/Flipkart%20Project%20Schemas.png)
+![ERD Placeholder](https://github.com/Gokul1998-svg/Flipkart-E-commerce-SQL-Project/blob/main/Flipkart%20Project%20Schemas.png)
