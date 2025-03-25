@@ -1,4 +1,4 @@
-# Flipkart-E-commerce-SQL-Project
+# Flipkart E-commerce SQL Project
 
 ![Project Banner Placeholder](https://github.com/Gokul1998-svg/Flipkart-E-commerce-SQL-Project/blob/main/flipkart.jpg)
 
